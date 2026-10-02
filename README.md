@@ -6,6 +6,12 @@ B.A. Mathematical Sciences (UNLV) · M.S. Data Science (Eastern University) · A
 
 ---
 
+## Original research
+
+- **[GEMWS — A Greedy Exchange Method for Warehouse Slotting](https://github.com/MuzamilSaiq/GEMWS)** — A volume-partitioned greedy exchange algorithm for warehouse re-slotting, combining capacity matching with velocity-based sorting and swapping. Establishes finite termination and optimality within selected partitions under stated feasibility assumptions. [Research paper](https://doi.org/10.5281/zenodo.23096290).
+
+---
+
 ## toy-to-theory
 
 A series of pedagogical notebooks that build each idea twice: once as a toy small enough to hold in your head, then again as a working implementation. Written for people who want to know why a method works, not just how to call it.
