@@ -2,7 +2,7 @@
 
 Operations and inventory analytics. Applied mathematics, queueing theory, and statistical modeling — mostly worked out in notebooks.
 
-B.A. Mathematical Sciences (UNLV) · M.S. Data Science (Eastern University) · Adjunct mathematics faculty.
+B.A. Mathematical Sciences (UNLV) · M.S. Data Science (Eastern University) · M.S. Operations Research (Florida Tech) - In Prog · Adjunct mathematics faculty.
 
 ---
 
